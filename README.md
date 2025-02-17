@@ -13,9 +13,11 @@
 
 ### 视频
 
-<iframe src="https://player.bilibili.com/player.html?bvid=player.bilibili.com/player.html?bvid=" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500px" poster="true"></iframe>
 
-
+<div align="center">
+<a href="https://player.bilibili.com/player.html?bvid=" >   <img src="./experiments/lora/SwinIR_4x-enhance-ouput.jpg" width="50%" height="50%" alt="视频">
+</a>
+</div>
 
 ### LoRA
 <div align="center">
