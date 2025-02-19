@@ -15,7 +15,7 @@
 
 
 <div align="center">
-<a href="https://player.bilibili.com/player.html?bvid=" >   <img src="./experiments/lora/SwinIR_4x-enhance-ouput.jpg" width="50%" height="50%" alt="视频">
+<a href="https://www.bilibili.com/video/BV1PNAveMEZU/" >   <img src="./assets/cover.png" width="50%" height="50%" alt="视频">
 </a>
 </div>
 
